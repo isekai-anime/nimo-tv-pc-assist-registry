@@ -1,26 +1,7 @@
 {
-  "payload": {
-    "schema": "NIMO_PC_ASSIST_OWNER_REGISTRY_V1",
-    "revision": 5,
-    "generatedAt": "2026-10-03T08:55:07.8139802Z",
-    "ownerProfile": {
-      "ownerId": "isekai-anime",
-      "displayName": "NIMO TV PC Assist Owner"
-    },
-    "authorizedRooms": [
-      {
-        "roomId": "475039509",
-        "enabled": true
-      }
-    ],
-    "flags": {
-      "assistEnabled": true,
-      "urlMediaPreviewEnabled": false
-    }
-  },
-  "signature": {
-    "alg": "ECDSA_P256_SHA256",
-    "keyId": "v4-p256-d403144cfccb6a3a76e0fbd4",
-    "value": "do9l1lSWVcOUU1Vbw8xbPzW9y2L-FsD2NqzGHWE28YAEkLgNH8Iy8pUIvzsc8wtHF5JNhMjYwPtIu_OwQ5qLRQ"
-  }
+  "schema": "NIMO_ROOM_AUTHORIZATION_SIGNED_ENVELOPE_V1",
+  "keyId": "owner-r3-20260905-r1",
+  "algorithm": "Ed25519",
+  "payload": "eyJleHBpcmVzQXQiOiIyMDI2LTEwLTA2VDAzOjI2OjM4Ljk5NloiLCJmbGFncyI6eyJhc3Npc3RFbmFibGVkIjp0cnVlLCJ1cmxNZWRpYVByZXZpZXdFbmFibGVkIjp0cnVlfSwiaXNzdWVkQXQiOiIyMDI2LTA5LTA2VDAzOjI2OjM4Ljk5NloiLCJyZXZpc2lvbiI6MSwicm9vbXMiOlt7InJvb21JZCI6IjIzMDY3NDg4MzEiLCJzdGF0dXMiOiJhbGxvdyJ9XSwic2NoZW1hIjoiTklNT19ST09NX0FVVEhPUklaQVRJT05fUkVHSVNUUllfVjMifQ",
+  "signature": "G3BHR5W6u9eARrEiUYTOIHY3VBYNvum_JnBLsBmcV9AARZiFGePIKAwKVCdUj_IuBeRzTEe5udVFiYiRKHF5DQ"
 }
