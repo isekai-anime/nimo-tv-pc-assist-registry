@@ -1,8 +1,8 @@
 {
   "payload": {
     "schema": "NIMO_PC_ASSIST_OWNER_REGISTRY_V1",
-    "revision": 10,
-    "generatedAt": "2026-10-18T12:06:26.4404832Z",
+    "revision": 11,
+    "generatedAt": "2026-10-30T11:39:01.2330396Z",
     "ownerProfile": {
       "ownerId": "isekai-anime",
       "displayName": "NIMO TV PC Assist Owner"
@@ -19,6 +19,10 @@
       {
         "roomId": "2355045018",
         "enabled": true
+      },
+      {
+        "roomId": "8666855",
+        "enabled": true
       }
     ],
     "flags": {
@@ -29,6 +33,6 @@
   "signature": {
     "alg": "ECDSA_P256_SHA256",
     "keyId": "v4-p256-d403144cfccb6a3a76e0fbd4",
-    "value": "Nur6sU2_vAHwTz61m-k6BKd81ipu8S7wnjWFzFa4biX5nREwhalmrrGSYr1ax2zPSv6NGXnbaALi_MvBeU0Thw"
+    "value": "zKbj-HLB0vuoci3IDzVfCui6EXkFG_SYZGEyMYaxQ8Iz_0O_nKs-dfrpj0UL5AkFRTG5hdxnt3GTzwBGe2LN5Q"
   }
 }
